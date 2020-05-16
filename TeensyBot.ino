@@ -25,9 +25,9 @@ decode_results results;
 #define motorPinIn1R  17
 #define motorPinIn2R  19
 #define motorPinPWMR  15
-#define motorPinIn1L  13
-#define motorPinIn2L  14
-#define motorPinPWML  12
+#define motorPinIn1L  14
+#define motorPinIn2L  13
+#define motorPinPWML  4
 
 #define maxPWM  200
 boolean autoMode = false;
