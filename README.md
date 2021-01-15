@@ -5,6 +5,8 @@ So, may I introduce Sports! They look like a tiny tennis ball tube, and are prob
 
 ![Sports!](https://github.com/reakain/TeensyCanBot/raw/master/images/Sports.jpg "Hello, I am Sports!")
 
+## [Video](https://youtu.be/gd8FmKdmDJA)
+
 ## Hardware
 1. [Teensy 2.0 microcontroller board](https://www.pjrc.com/teensy/)
 2. 2x [DC motors in servo motor body](https://www.adafruit.com/product/2941)
